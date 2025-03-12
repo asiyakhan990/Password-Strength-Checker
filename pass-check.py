@@ -59,5 +59,5 @@ if st.button("Check Strength"):
 # 🌟 Footer
 st.markdown("""
 ---
-Made with ❤️ by **Kaladi Developer**  
+Made with ❤️ by **Asiya Khan**  
 """)
