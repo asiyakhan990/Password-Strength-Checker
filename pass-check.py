@@ -56,3 +56,8 @@ if st.button("Check Strength"):
             st.success(feedback)
         elif strength < 5:
             st.warning("⚠️ Consider using a longer password with uppercase, lowercase, digits, and special characters for better security.")
+# 🌟 Footer
+st.markdown("""
+---
+Made with ❤️ by **Kaladi Developer**  
+""")
